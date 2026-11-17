@@ -1,0 +1,7 @@
+Map,Batch,Goals,Holes,Time_limits,Mean_steps,Mean_return
+Extended,11,50,0,0,5.0,1.5019999999999998
+Extended,22,50,0,0,5.0,1.5019999999999998
+Extended,33,50,0,0,5.0,1.5019999999999998
+Original,11,44,6,0,4.92,1.521116
+Original,22,45,5,0,5.04,1.6549604
+Original,33,47,3,0,5.1,2.150972

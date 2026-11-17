@@ -1,0 +1,13 @@
+Slippery,Policy,Batch seed,Goals,Holes,Time_limits,Mean_steps,Success %
+False,Fixed,11,50,0,0,6.0,100.0
+False,Fixed,22,50,0,0,6.0,100.0
+False,Fixed,33,50,0,0,6.0,100.0
+False,Random,11,0,50,0,7.94,0.0
+False,Random,22,1,49,0,7.16,2.0
+False,Random,33,2,48,0,6.66,4.0
+True,Fixed,11,1,49,0,4.24,2.0
+True,Fixed,22,2,48,0,5.48,4.0
+True,Fixed,33,1,49,0,4.44,2.0
+True,Random,11,1,49,0,7.98,2.0
+True,Random,22,3,47,0,7.66,6.0
+True,Random,33,1,49,0,7.16,2.0

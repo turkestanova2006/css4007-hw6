@@ -1,0 +1,9 @@
+Wall: PASS
+Boundary: PASS
+Ice probabilities: PASS
+Mud reward: PASS
+Sand reward: PASS
+Water reward: PASS
+Goal reward: PASS
+Hole reward: PASS
+Terminal values: PASS

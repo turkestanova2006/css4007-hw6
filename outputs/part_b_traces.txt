@@ -1,0 +1,130 @@
+=== Goal ===
+Start (state 0)
+
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 1: action=0, state=0, reward=0
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 2: action=0, state=0, reward=0
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 3: action=1, state=4, reward=0
+  (Down)
+SFFF
+[41mF[0mHFH
+FFFH
+HFFG
+
+Step 4: action=1, state=8, reward=0
+  (Down)
+SFFF
+FHFH
+[41mF[0mFFH
+HFFG
+
+Step 5: action=0, state=8, reward=0
+  (Left)
+SFFF
+FHFH
+[41mF[0mFFH
+HFFG
+
+Step 6: action=2, state=9, reward=0
+  (Right)
+SFFF
+FHFH
+F[41mF[0mFH
+HFFG
+
+Step 7: action=2, state=10, reward=0
+  (Right)
+SFFF
+FHFH
+FF[41mF[0mH
+HFFG
+
+Step 8: action=1, state=14, reward=0
+  (Down)
+SFFF
+FHFH
+FFFH
+HF[41mF[0mG
+
+Step 9: action=0, state=13, reward=0
+  (Left)
+SFFF
+FHFH
+FFFH
+H[41mF[0mFG
+
+Step 10: action=2, state=14, reward=0
+  (Right)
+SFFF
+FHFH
+FFFH
+HF[41mF[0mG
+
+Step 11: action=2, state=15, reward=1
+  (Right)
+SFFF
+FHFH
+FFFH
+HFF[41mG[0m
+
+
+=== Hole ===
+Start (state 0)
+
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 1: action=0, state=0, reward=0
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 2: action=0, state=0, reward=0
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 3: action=3, state=0, reward=0
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 4: action=1, state=4, reward=0
+  (Down)
+SFFF
+[41mF[0mHFH
+FFFH
+HFFG
+
+Step 5: action=2, state=5, reward=0
+  (Right)
+SFFF
+F[41mH[0mFH
+FFFH
+HFFG
+
+
